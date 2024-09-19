@@ -39,7 +39,9 @@ int main() {
 
 
 /*
-SIGINT is now ignored. Try pressing Ctrl+C.
-SIGINT action reset to default. Try pressing Ctrl+C again.
-Program exiting normally
+ "9th"
+[main e28b4ac] 9th
+ 3 files changed, 59 insertions(+)
+ create mode 100644 10.c
+ create mode 100644 9.c
 */
