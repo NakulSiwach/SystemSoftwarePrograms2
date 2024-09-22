@@ -64,5 +64,8 @@ void main()
 
     
 /*
-
+server Socket created
+Binding to server socket was successful!
+NakulSiwach
+Listning from Connection Write massage form server to client: Data from client: hello
 */

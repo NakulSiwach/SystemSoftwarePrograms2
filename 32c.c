@@ -113,5 +113,9 @@ void main()
 
     
 /*
-
+entering to obtain lock on the critical section
+Obtained lock on critical section!
+inside Critical section
+ticket number is : 2     
+ticket number is stored in file
 */

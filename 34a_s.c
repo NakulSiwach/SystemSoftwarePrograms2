@@ -77,5 +77,14 @@ void main()
 
     
 /*
-
+server Socket created
+Binding to server socket was successful!
+Listning from Connection 
+Write massage form server to client: 
+NakulSiwach\
+Data from client : NakulSiwach
+Write massage form server to client: 
+NakulSiwach
+Data from client : hello from client
+hello from server
 */

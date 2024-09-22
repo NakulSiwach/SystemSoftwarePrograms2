@@ -80,5 +80,14 @@ int main(int argc, char *argv[])
 
     
 /*
+// Entering critical zone
+// inside Critical section
+// ticket number is : 5     
+// ticket number is stored in file
+// out of critical zone
 
+// terminal 2 
+
+// ./a.out 
+// Entering critical zone
 */

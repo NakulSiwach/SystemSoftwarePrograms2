@@ -95,5 +95,15 @@ void main()
 
     
 /*
+entering to obtain lock on the critical section
+Obtained lock on critical section!
+Now entering critical section!
+write in shared memory
+2
+data from shared memory : 2
+entering to exit from critical section!
 
+terminal 2 
+/a.out 
+entering to obtain lock on the critical section
 */

@@ -55,5 +55,11 @@ void main()
 
     
 /*
+Socket created
+Connection with server established
+Data from server: Hello from server
 
+Write massage for server: 
+NakulSiwach
+Data sent to server
 */

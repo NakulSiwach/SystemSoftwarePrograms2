@@ -34,5 +34,5 @@ int main() {
 }
     
 /*
-
+Message queue removed successfully.
 */

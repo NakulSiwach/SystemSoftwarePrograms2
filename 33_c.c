@@ -49,5 +49,7 @@ void main()
 
     
 /*
-
+Socket created
+Connection with server establishedData from server: NakulSiwach
+Write massage for server: hello
 */
