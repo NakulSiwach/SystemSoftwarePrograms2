@@ -2,7 +2,7 @@
 
 Name : Nakul Siwach
 Roll No : MT2024096
-Program : 
+Program : 21. Write two programs so that both can communicate by FIFO -Use two way communications.
 */
 
 #include <stdio.h>
@@ -42,5 +42,8 @@ int main() {
 
     
 /*
+Program 1: Enter message: Nakul 
+Program 2 says: Siwach
 
+Program 1: Enter message: ^C
 */

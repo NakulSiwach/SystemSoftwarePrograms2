@@ -2,7 +2,7 @@
 
 Name : Nakul Siwach
 Roll No : MT2024096
-Program : 
+Program : 24. Write a program to create a message queue and print the key and message queue id.
 
 */
 
@@ -27,5 +27,6 @@ int main()
 
     
 /*
-
+Key for given path and project id is :17271495 
+Message queue id : 0
 */

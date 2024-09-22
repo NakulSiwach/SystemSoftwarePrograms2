@@ -44,5 +44,5 @@ int main() {
 
     
 /*
-
+msgrcv: No message of desired type
 */

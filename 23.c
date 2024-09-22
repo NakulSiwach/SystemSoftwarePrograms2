@@ -2,7 +2,8 @@
 
 Name : Nakul Siwach
 Roll No : MT2024096
-Program : 
+Program : 23. Write a program to print the maximum number of files can be opened within a process and
+size of a pipe (circular buffer).
 */
 
 #include <unistd.h>
@@ -31,5 +32,6 @@ void main()
 
     
 /*
-
+// Maximum number of files that can be opened is: 1048576
+// Maximum size of pipe: 4096
 */

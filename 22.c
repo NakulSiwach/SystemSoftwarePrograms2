@@ -2,7 +2,8 @@
 
 Name : Nakul Siwach
 Roll No : MT2024096
-Program : 
+Program : 22. Write a program to wait for data to be written into FIFO within 10 seconds, use select
+system call with FIFO.
 
 */
 
@@ -72,5 +73,7 @@ int main() {
 
     
 /*
-
+// ./a.out 
+// Waiting for data in FIFO with a 10-second timeout...
+// Data received from FIFO: Hello from FIFO
 */
